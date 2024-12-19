@@ -14,5 +14,5 @@ A fun and interactive Mario-themed Whac-A-Mole game built with Java using the Sw
 - Hands-on experience with **event handling**, **animations**, and basic **game mechanics** in Java 💻.
 - Exploring GUI components like **JButtons** and **Timers** to make the game interactive 🖱️.
 
-Enjoyed the challenge of working on this small-scale project and learned a lot along the way 🎉.
+Enjoyed the challenge of working on this small-scale project and learned a lot along the way.
 I hope you enjoy playing and exploring this game as much as I enjoyed building it! I'm open to contributions and ideas to make this project even better 🤝.
